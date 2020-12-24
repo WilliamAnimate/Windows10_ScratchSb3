@@ -1,4 +1,4 @@
-# Windows10_ScratchSb3Test
+# Windows10_ScratchSb3
 Not yet ready for release
  	| Contributers |
 | ----------- |
