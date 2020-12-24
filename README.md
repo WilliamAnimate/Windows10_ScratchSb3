@@ -1,6 +1,6 @@
 # Windows10_ScratchSb3
 You Cannot use "Images" for your public stuff. i made them all.
-## These are the awesome contributers who helped me on this project, check them out!
+| These are the awesome contributers who helped me on this project, check them out! |
  	| Contributers |
 | ----------- |
 | [William_Animate (Person who started this project, also me :D)](https://scratch.mit.edu/users/william_animate/) |
