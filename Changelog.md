@@ -1,6 +1,6 @@
 # (planned) Alpha 1.4.1.2 (4% complete)
 *FIX THE BUG WHERE FIRSTBOOT DOES NOT WORK*
-# Alpha 1.4.1.2 (0.3.1% complete)
+# Alpha 1.4.1.2 (0.3.1% complete), current
 fixed a bug where it's unbootable. its traced to the firstboot varable. (i guess messing with 1 thing with your windows registry really can do damage)
 # Alpha 1.4.1.2 (0.3% complete)
 its the version that you cannot download without the password.
