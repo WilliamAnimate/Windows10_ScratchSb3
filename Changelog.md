@@ -1,9 +1,10 @@
 # (planned) Alpha 1.4.1.2 (4% complete)
-*FIX THE BUG WHERE FIRSTBOOT DOES NOT WORK*
+- *FIX THE BUG WHERE FIRSTBOOT DOES NOT WORK* -priority 100+
+- *add loading circle when you click sign in* -priority: 99+
 # Alpha 1.4.1.2 (0.3.1% complete), current
-fixed a bug where it's unbootable. its traced to the firstboot varable. (i guess messing with 1 thing with your windows registry really can do damage)
+- fixed a bug where it's unbootable. its traced to the firstboot varable. (i guess messing with 1 thing with your windows registry really can do damage)
 # Alpha 1.4.1.2 (0.3% complete)
-its the version that you cannot download without the password.
+ its the version that you cannot download without the password.
 # Alpha v1.4.1.1 (so much bugs i don't wan't to release it)
 BUGGY
 # Alpha v1.4.1 (first public release)
