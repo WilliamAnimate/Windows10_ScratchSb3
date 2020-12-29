@@ -1,6 +1,8 @@
-# (planned) Alpha 1.4.1.2 (4% complete)
+# (planned) Alpha 1.4.1.2 (0.3.5% complete)
 - *FIX THE BUG WHERE FIRSTBOOT DOES NOT WORK* -priority 100+
 - *add loading circle when you click sign in* -priority: 99+
+# (Planned) Alpha 1.4.1.2 (0.3.2% complete)
+- Core rewrite to help fix firstboot bug
 # Alpha 1.4.1.2 (0.3.1% complete), current
 - fixed a bug where it's unbootable. its traced to the firstboot varable. (i guess messing with 1 thing with your windows registry really can do damage)
 # Alpha 1.4.1.2 (0.3% complete)
