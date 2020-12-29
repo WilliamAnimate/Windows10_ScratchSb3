@@ -5,7 +5,7 @@ These are the awesome contributers who helped me on this project, check them out
  	| Contributers |
 | ----------- |
 | [William_Animate](https://scratch.mit.edu/users/william_animate/) |
-| [Tristan Poland (aka programmer 126](https://scratch.mit.edu/users/programmer126/) or [github](https://github.com/tristanpoland/)
+| [Tristan Poland (aka programmer 126)](https://scratch.mit.edu/users/programmer126/) or [github](https://github.com/tristanpoland/)
 | [blablablahello](https://Scratch.mit.edu/users/blablablahello/) |
 # What could i access?
 anything in the "public accessable" folder
