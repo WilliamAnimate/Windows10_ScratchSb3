@@ -1,3 +1,6 @@
 # What is this
 this is the replacement of all cores for scratch. (not cpu cores)
-## Remade by 
+## Remade by [WilliamAnimate](https://scratch.mit.edu/users/william_animate)
+For [TristanPoland(contributor)](https://scratch.mit.edu/users/programer126) to change the core in his project.
+### why is the core changed?
+firstboot and others are broken. rewritten the core.
