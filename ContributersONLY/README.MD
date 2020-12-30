@@ -3,4 +3,4 @@
 William_Animate, Tristan Poland AKA Programer126, blablablahello
 
 ## Updates
-**Alpha 1.4.1.2 Slight_Stable (0.3% complete of 1.4.1.2)
+**Alpha 1.4.1.2 Slight_Stable (0.3% complete of 1.4.1.2), referer to changelog
