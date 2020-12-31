@@ -1,11 +1,15 @@
-# (planned) Alpha 1.4.1.2 (0.3.5% complete)
+# (planned) Alpha 1.4.1.3 (0.1%)
+- remake the font so for javascript it'll look nice (way to do: bitmap)
+*seems impossible to jump from 0.3.5% to 100%*
+# (planned) Alpha 1.4.1.2 (0.3.5%)
 - *FIX THE BUG WHERE FIRSTBOOT DOES NOT WORK* -priority 100+
 - *add loading circle when you click sign in* -priority: 99+
-# (Planned) Alpha 1.4.1.2 (0.3.2% complete)
-- Core rewrite to help fix firstboot bug
-# Alpha 1.4.1.2 (0.3.1% complete), current
-- fixed a bug where it's unbootable. its traced to the firstboot varable. (i guess messing with 1 thing with your windows registry really can do damage)
-# Alpha 1.4.1.2 (0.3% complete)
+- *code rewrite for hibernate* -priority 30
+# (Planned) Alpha 1.4.1.2 (0.3.2%, current)
+core rewrite to help fix firstboot bug
+# Alpha 1.4.1.2 (0.3.1%)
+fixed a bug where it's unbootable. its traced to the firstboot varable. (i guess messing with 1 thing with your windows registry really can do damage)
+# Alpha 1.4.1.2 (0.3%
  its the version that you cannot download without the password.
 # Alpha v1.4.1.1 (so much bugs i don't wan't to release it)
 BUGGY
