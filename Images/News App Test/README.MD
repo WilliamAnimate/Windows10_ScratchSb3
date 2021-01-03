@@ -2,4 +2,5 @@
 they are Adobe Illustrator files to "read" (?)
 ## nice, where do i get adobe illustrator?
 want it? here's a direct [download link](https://adobe.com/ca/products/illustrator.html), costs apply (for buying)
-### really nothing
+### im really not the best with adobe illustrator so don't judge me.
+PLS DONT I BEG YOU
